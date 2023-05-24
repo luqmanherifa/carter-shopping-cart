@@ -1,4 +1,4 @@
-# react-add-to-cart
+# Carter: Shopping Cart
 
 ### Display
 ![Display]()

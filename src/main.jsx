@@ -10,7 +10,7 @@ import ProductPage from "./pages/products";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <LoginPage />,
     errorElement: <ErrorPage />,
   },
   {

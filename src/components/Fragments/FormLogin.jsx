@@ -21,7 +21,7 @@ const FormLogin = () => {
       <InputForm
         label="Email"
         type="email"
-        placeholder="example@gmail.com"
+        placeholder="hannipham@gmail.com"
         name="email"
         ref={emailRef}
       />
